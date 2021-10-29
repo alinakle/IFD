@@ -1,3 +1,8 @@
 # IFD
 
-https://github.com/alinakle/IFD/blob/main/Zeichnung_Prototyp.JPG
+# Aufgabe1
+
+- [Aufgabe1.1](https://alinakle.github.io/IFD/Aufgabe1/Moodboard.pdf)
+- [Aufgabe1.2](https://alinakle.github.io/IFD/Aufgabe1/Themenvorschlag.pdf)
+
+- [Aufgabe2](https://alinakle.github.io/IFD/Aufgabe2/home.html)
