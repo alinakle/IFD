@@ -1,3 +1,3 @@
 # IFD
 
-https://alinakle.github.io/IFD/first.html
+https://github.com/alinakle/IFD/blob/main/Zeichnung_Prototyp.JPG
