@@ -7,4 +7,4 @@
 
 # Aufgabe2
 
-- [Aufgabe2](https://alinakle.github.io/IFD/Aufgabe2/home.html)
+- [Aufgabe2](https://alinakle.github.io/IFD/Aufgabe2/Zeichnung.pdf)
