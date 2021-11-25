@@ -11,4 +11,5 @@
 
 # Aufgabe 3
 
-- [Aufgabe3](https://xd.adobe.com/view/d1fc636a-2a53-4164-bb0d-27c0750ebfa1-84af/)
+- [Aufgabe3 Prototyp(https://xd.adobe.com/view/d1fc636a-2a53-4164-bb0d-27c0750ebfa1-84af/)
+- [Aufgabe3 Leitfaden](https://alinakle.github.io/IFD/Aufgabe3-7/)Leitfaden.pdf)
