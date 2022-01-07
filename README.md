@@ -17,3 +17,7 @@
 # Aufgabe8
 
 - [Aufgabe8](https://alinakle.github.io/IFD/Aufgabe8/index.html)
+
+# Aufgabe10
+
+- [Aufgabe10](https://alinakle.github.io/IFD/Aufgabe10/index.html)
