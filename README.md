@@ -25,4 +25,4 @@
 # Aufgabe11
 
 - [Aufgabe10 Prototyp](https://xd.adobe.com/view/d2477184-c11c-4133-b595-deb8214864ca-8714/?fullscreen&hints=off)
-- [Aufgabe10 Screencast](https://alinakle.github.io/IFD/Aufgabe11/index.html)
+- [Aufgabe10 Screencast](https://alinakle.github.io/IFD/Aufgabe11/Screencast.mp4)
